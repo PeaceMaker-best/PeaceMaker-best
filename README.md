@@ -55,7 +55,7 @@ This profile is a small, open workshop for practical experiments and ideas that 
 
 ## The Big Vision
 
-### Agent 还有很多没做完。
+### Agent 应用才刚刚起步。
 
 There are still better ways for agents to plan, collaborate, use tools, remember, verify their work, and recover when reality does not match the plan.
 
