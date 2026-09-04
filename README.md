@@ -53,9 +53,23 @@ This profile is a small, open workshop for practical experiments and ideas that 
   </tr>
 </table>
 
+## Open-source work
+
+In 2026, I've landed **6 merged pull requests across two GitHub accounts** in open-source repositories I don't own. Recent work spans frontend performance, authorization safety, skill installation, provider configuration, event-history integrity, and desktop reliability.
+
+### [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
+
+Five merged pull requests across `PeaceMaker-best` and `Beautyl0ve`, covering chat-state performance, sandbox authorization checks, local skill archives, configurable podcast voices, and reliable history attribution.
+
+### [makecindy/cindy](https://github.com/makecindy/cindy)
+
+A merged desktop reliability fix that removes stale timestamp residue from the interface.
+
+[Browse merged PRs from PeaceMaker-best](https://github.com/search?q=author%3APeaceMaker-best+is%3Apr+is%3Amerged+-user%3APeaceMaker-best+merged%3A%3E%3D2026-01-01&type=pullrequests) · [Browse merged PRs from Beautyl0ve](https://github.com/search?q=author%3ABeautyl0ve+is%3Apr+is%3Amerged+-user%3ABeautyl0ve+merged%3A%3E%3D2026-01-01&type=pullrequests)
+
 ## The Big Vision
 
-### Agent 应用才刚刚起步。
+### Agent 还有很多没做完。
 
 There are still better ways for agents to plan, collaborate, use tools, remember, verify their work, and recover when reality does not match the plan.
 
