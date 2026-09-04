@@ -11,9 +11,9 @@
 
 ## Hi, I'm PeaceMaker
 
-I build and explore **agent systems** — how they plan, use tools, remember useful context, verify results, and turn intent into action.
+My focus is **agent development**: building systems that can plan, use tools, remember context, verify outcomes, and reliably turn intent into action.
 
-This profile is a small, open workshop for practical experiments and ideas that are still becoming real systems.
+I'm a contributor to [ByteDance's DeerFlow](https://github.com/bytedance/deer-flow), where I continue to improve real-world agent infrastructure through practical, production-minded contributions.
 
 ## What I'm Exploring
 
@@ -57,23 +57,31 @@ This profile is a small, open workshop for practical experiments and ideas that 
 
 In 2026, I've landed **6 merged pull requests across two GitHub accounts** in open-source repositories I don't own. Recent work spans frontend performance, authorization safety, skill installation, provider configuration, event-history integrity, and desktop reliability.
 
-### [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
-
-Five merged pull requests across `PeaceMaker-best` and `Beautyl0ve`, covering chat-state performance, sandbox authorization checks, local skill archives, configurable podcast voices, and reliable history attribution.
-
-### [makecindy/cindy](https://github.com/makecindy/cindy)
-
-A merged desktop reliability fix that removes stale timestamp residue from the interface.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/bytedance/deer-flow">bytedance/deer-flow</a></h3>
+      <p>Agent infrastructure, authorization safety, skill delivery, frontend performance, provider configuration, and reliable history attribution.</p>
+      <a href="https://github.com/search?q=repo%3Abytedance%2Fdeer-flow+is%3Apr+is%3Amerged+%28author%3APeaceMaker-best+OR+author%3ABeautyl0ve%29&type=pullrequests"><img alt="5 merged pull requests to DeerFlow" src="https://img.shields.io/badge/Merged%20PRs-5-6D5BD0?style=flat-square&logo=github"></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/makecindy/cindy">makecindy/cindy</a></h3>
+      <p>Desktop reliability and interface cleanup, including the removal of stale timestamp artifacts.</p>
+      <a href="https://github.com/search?q=repo%3Amakecindy%2Fcindy+is%3Apr+is%3Amerged+%28author%3APeaceMaker-best+OR+author%3ABeautyl0ve%29&type=pullrequests"><img alt="1 merged pull request to Cindy" src="https://img.shields.io/badge/Merged%20PRs-1-138A7E?style=flat-square&logo=github"></a>
+    </td>
+  </tr>
+</table>
 
 [Browse merged PRs from PeaceMaker-best](https://github.com/search?q=author%3APeaceMaker-best+is%3Apr+is%3Amerged+-user%3APeaceMaker-best+merged%3A%3E%3D2026-01-01&type=pullrequests) · [Browse merged PRs from Beautyl0ve](https://github.com/search?q=author%3ABeautyl0ve+is%3Apr+is%3Amerged+-user%3ABeautyl0ve+merged%3A%3E%3D2026-01-01&type=pullrequests)
 
 ## The Big Vision
 
-### Agent 还有很多没做完。
+Agent systems should become **simpler when they can** and **better when they must**.
 
-There are still better ways for agents to plan, collaborate, use tools, remember, verify their work, and recover when reality does not match the plan.
+1. **Adaptive simplification** — Enable complex agent systems to automatically remove unnecessary components and reduce themselves to what each scenario truly requires.
+2. **Self-evolution** — Design agents that autonomously discover opportunities for improvement, implement their own upgrades, and verify that each change actually works.
 
-I want to build some of those missing pieces — one clear, useful, working system at a time.
+The goal is not complexity for its own sake, but agents that continuously become more focused, capable, and reliable.
 
 <div align="center">
 
