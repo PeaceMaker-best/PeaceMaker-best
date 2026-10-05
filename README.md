@@ -62,7 +62,7 @@ In 2026, I've landed **20+ merged pull requests across two GitHub accounts** in 
     <td width="50%" valign="top">
       <h3><a href="https://github.com/bytedance/deer-flow">bytedance/deer-flow</a></h3>
       <p>Agent infrastructure, authorization safety, skill delivery, frontend performance, provider configuration, and reliable history attribution.</p>
-      <a href="https://github.com/search?q=repo%3Abytedance%2Fdeer-flow+is%3Apr+is%3Amerged+%28author%3APeaceMaker-best+OR+author%3ABeautyl0ve%29&type=pullrequests"><img alt="5 merged pull requests to DeerFlow" src="https://img.shields.io/badge/Merged%20PRs-5-6D5BD0?style=flat-square&logo=github"></a>
+      <a href="https://github.com/search?q=repo%3Abytedance%2Fdeer-flow+is%3Apr+is%3Amerged+%28author%3APeaceMaker-best+OR+author%3ABeautyl0ve%29&type=pullrequests"><img alt="20 merged pull requests to DeerFlow" src="https://img.shields.io/badge/Merged%20PRs-5-6D5BD0?style=flat-square&logo=github"></a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/makecindy/cindy">makecindy/cindy</a></h3>
