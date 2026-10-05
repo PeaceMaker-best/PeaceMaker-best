@@ -55,7 +55,7 @@ I'm a contributor to [ByteDance's DeerFlow](https://github.com/bytedance/deer-fl
 
 ## Open-source work
 
-In 2026, I've landed **6 merged pull requests across two GitHub accounts** in open-source repositories I don't own. Recent work spans frontend performance, authorization safety, skill installation, provider configuration, event-history integrity, and desktop reliability.
+In 2026, I've landed **20+ merged pull requests across two GitHub accounts** in open-source repositories I don't own. Recent work spans frontend performance, authorization safety, skill installation, provider configuration, event-history integrity, and desktop reliability.
 
 <table>
   <tr>
